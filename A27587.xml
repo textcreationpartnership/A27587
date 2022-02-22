@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A chain of principles concerning the thousand years kingdom of Christ against the Seni-Sadducism of the apostasie that denyes that kingdom humbly offered by way of appeal to all Christians, especially to the pastors and doctors of the churches, that if there be error in any of the principles, or weakness in the concatenation, it may be publickly testified and convinced, for all is founded on express Scripture, compar'd and reason'd from according to Acts 17.3.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27587</idno>
+            <idno type="STC">Wing B2129</idno>
+            <idno type="STC">ESTC R35686</idno>
+            <idno type="EEBO-CITATION">12757256</idno>
+            <idno type="OCLC">ocm 12757256</idno>
+            <idno type="VID">93448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 375:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A chain of principles concerning the thousand years kingdom of Christ against the Seni-Sadducism of the apostasie that denyes that kingdom humbly offered by way of appeal to all Christians, especially to the pastors and doctors of the churches, that if there be error in any of the principles, or weakness in the concatenation, it may be publickly testified and convinced, for all is founded on express Scripture, compar'd and reason'd from according to Acts 17.3.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Beverley by Wing.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Glasgow University Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Second Advent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93448:1"/>
+            <pb n="1" facs="tcp:93448:1"/>
+            <head>A <hi>Chain of Principles</hi> concerning the <hi>Thouſand Years King<g ref="char:EOLhyphen"/>dom of Chriſt,</hi> againſt the <hi>Seni-Sadduciſm</hi> of the <hi>Apo<g ref="char:EOLhyphen"/>ſtaſie,</hi> that denyes that <hi>Kingdom;</hi> Humbly offered by way of Appeal to All Chriſtians, eſpecially to the <hi>Paſtors,</hi> and <hi>Doctors</hi> of the <hi>Churches,</hi> that if there be Error in Any of the Principles, or Weakneſs in the Concatenation, It may be publickly Teſtified, and Convinced, For All is Founded on Expreſs Scripture, Compar'd, and Reaſon'd from according to <hi>Acts 17.3.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>1</label> THere is a <hi>Kingdom,</hi> that Jeſus Chriſt is to Have moſt diſtinct to Him, as the <hi>Son of Man;</hi> For ſuch a One He muſt by the <hi>Apoſtles</hi> Expreſs Doctrine <hi>Deliver up to God, and to the Father;</hi> that <hi>God may be All in All,</hi> 1 <hi>Cor.</hi> 15.24. Now if ſuch a Kingdom were to Chriſt, as the <hi>Eternal Word,</hi> and not as the <hi>Son of Man,</hi> God would not be more <hi>All</hi> in <hi>All</hi> by the <hi>Delivery</hi> of it up. It muſt be therefore diſtinct to Him, as the <hi>Son of Man,</hi> as he He is ſtyl'd in the <hi>Propheſie</hi> of that <hi>Kingdom, Dan.</hi> 7.13. and ſo the <hi>Delivery</hi> of it up more Ful<g ref="char:EOLhyphen"/>ly manifeſts <hi>God All in All.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>2</label> The Kingdom of Chriſt Innumerable Scriptures (particu<g ref="char:EOLhyphen"/>larly 2 <hi>Tim.</hi> 4.1.) witneſs to be at his <hi>Coming</hi> and <hi>Appearance</hi> in <hi>Glory;</hi> It can be therefore no <hi>Kingdom,</hi> Chriſt hath yet Had; Becauſe He hath not yet <hi>Appear'd</hi> in <hi>Glory;</hi> Nor can It be the <hi>Kingdom</hi> of <hi>Eternity;</hi> Becauſe It muſt be <hi>Delivered</hi> up, that <hi>God</hi> in <hi>Eternity</hi> may be <hi>All in All;</hi> and yet <hi>One</hi> with Chriſt, and his <hi>Saints</hi> throughout Eternity. <hi>John</hi> 17.21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>3</label> That this <hi>Kingdom of Chriſt</hi> is a Kingdom of, and with his <hi>Saints,</hi> and not a Solitary <hi>Kingdom,</hi> is, what the whole ſtream of Scripture runs ſo into, that no One dare call it into doubt; But that All his Saints both <hi>Dead,</hi> and <hi>They Alive at his com<g ref="char:EOLhyphen"/>ing</hi> Enjoy the Glory of his <hi>Kingdom,</hi> hath not been ſo Clear; To ſome, concerning the <hi>Dead Saints;</hi> To others concerning the <hi>Living Saints;</hi> The <hi>Apoſtle Paul</hi> hath therefore in Two Great Places of Scripture, 1 <hi>Cor.</hi> 15.52, 53. and 1 <hi>Theſſ.</hi> 4.17. Di<g ref="char:EOLhyphen"/>ſtributed. All the Saints into the <hi>Saints dead in Chriſt, Raiſed</hi> firſt, and <hi>Raiſed Incorruptible;</hi> and into the <hi>Saints Living,</hi> and Remaining at his <hi>Coming,</hi> who <hi>Dye</hi> not; but are <hi>Changed</hi> firſt,
+<pb n="2" facs="tcp:93448:2"/>
+               <hi>viz.</hi> at that <hi>Coming;</hi> and after <hi>Caught up to be Ever with the Lord;</hi> which Saints ſo <hi>Alive</hi> at his Coming are call'd; <hi>We;</hi> to Aſſure They are <hi>Saints;</hi> and <hi>We All,</hi> to ſhew, They are the Laſt and the Complement, who make up the Full Number of Saints.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>4</label> Now beſides the Love, and Grace of Chriſt, Equal to All his Saints; a Reaſon of Greateſt Firmneſs, He would not Appear in Glory, without the Participation of All of Them in that Glory; The Apoſtle hath alſo Aſſur'd concerning Both; Concerning the Dead; That at his <hi>Coming,</hi> when His <hi>Kingdom</hi> is, He will <hi>Bring them with Him,</hi> and the <hi>Living</hi> ſhall not be before hand with them; nor indeed Attain Them; ſo that if He have any Saints with him in Glory, as He moſt certainly will; They that <hi>ſleep by Him</hi> and in <hi>Him</hi> ſhall be the <hi>Firſt:</hi> And then concerning the <hi>Living Saints;</hi> The Apoſtle is as full, and Poſitive, They ſhall be <hi>Changed,</hi> and ſhall not <hi>Dye;</hi> They muſt therefore be in Bodies at leaſt of ſuch Excel<g ref="char:EOLhyphen"/>lency as <hi>Adams</hi> in <hi>Paradiſe,</hi> who, if He had not ſinned, had not Dyed; (though ſtill under a poſſibility of Dying.) 1 <hi>Cor.</hi> 15.52, 53. 1 <hi>Theſſ.</hi> 4.13. <hi>&amp;c.</hi> This I ſay on Suppoſition, as will Appear, They are not preſently Caught up.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>5</label> Whenever the <hi>Corruptible</hi> of <hi>All Saints</hi> puts on <hi>Incorruption,</hi> and the <hi>Mortal</hi> of <hi>All Saints puts on Immortality,</hi> Then is <hi>Brought to paſs the Saying, that is written, that Death is ſwallowed up in Victory.</hi> So the Apoſtle ſpeaks expreſsly, 1 <hi>Cor.</hi> 15.54. When<g ref="char:EOLhyphen"/>ever <hi>Death</hi> is <hi>ſwallowed</hi> up in <hi>Victory,</hi> It is <hi>ſubdued;</hi> Elſe <hi>Victory,</hi> and <hi>ſwallowing</hi> up in <hi>Victory</hi> is not <hi>ſubduing, v.</hi> 26. Now <hi>Death</hi> is the <hi>Laſt Enemy</hi> to be <hi>ſubdued;</hi> when That therefore is <hi>ſubdu<g ref="char:EOLhyphen"/>ed,</hi> All is <hi>ſubdued;</hi> Elſe It were not the <hi>Laſt Enemy.</hi> And when <hi>All Things</hi> ſhall be <hi>ſubdued to the Son,</hi> then <hi>ſhall the Son be ſub<g ref="char:EOLhyphen"/>ject, viz.</hi> as <hi>Son of Man,</hi> that God in the <hi>Eternal Word</hi> in our Nature may be <hi>All in All, in</hi> and <hi>with</hi> the <hi>Saints, v.</hi> 28. <hi>John</hi> 17.21. to the End.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>6</label> The <hi>Dead Saints,</hi> whom <hi>Chriſt brings with Him,</hi> and who <hi>Riſe firſt,</hi> muſt needs <hi>put on Incorruption;</hi> For the Apoſtle ſaith, <hi>v.</hi> 52. They ſhall be <hi>Raiſed Incorruptible;</hi> and They muſt <hi>put on Immortality,</hi> For our Lord ſays, <hi>Luke</hi> 20.36. They <hi>cannot Dye any more, For they are Equal to Angels,</hi> whoever are the <hi>Children of God,</hi> and <hi>of the Reſurrection;</hi> And Their being thus <hi>Rais'd</hi> is to be at the <hi>Coming of Chriſt,</hi> and at his <hi>Kingdom.</hi> So in theſe <hi>Dead Saints Rais'd firſt, Death</hi> muſt be <hi>ſwallowed</hi> up in <hi>Victory,</hi> whenever Chriſt <hi>Comes.</hi>
+            </p>
+            <pb n="3" facs="tcp:93448:2"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>7</label> If therefore a Delay of <hi>Deaths being ſwallowed up in Victory</hi> ſhall be found neceſſary to the Continuation of the <hi>Kingdom of Chriſt,</hi> and to its not being <hi>Delivered up</hi> immediately unto the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> (ſeeing It muſt be <hi>Delivered up,</hi> when ever the <hi>Laſt Enemy Death is ſubdued</hi>) That Delay muſt be found in the <hi>Saints Chang'd;</hi> who are not therefore ſaid by the Apoſtle to be <hi>Chang'd Incorruptible,</hi> although They ſhall not <hi>Dye;</hi> Nor is it neceſſary by any Thing the Apoſtle hath ſaid, They ſhould be <hi>Caught up immediately;</hi> there being the ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>after<g ref="char:EOLhyphen"/>ward</hi> fix'd by the Apoſtle between the Dead in Chriſt <hi>Riſing firſt,</hi> and the <hi>Living</hi> being <hi>Caught up,</hi> that was betwixt <hi>Chriſt Ri<g ref="char:EOLhyphen"/>ſing,</hi> and his <hi>Saints Riſing</hi> at his <hi>Coming,</hi> 1 <hi>Cor.</hi> 15.23. which, we all know, hath already ſpent above 1600 years. There is no Scripture Evidence then, that the <hi>Saints Chang'd</hi> doe immedi<g ref="char:EOLhyphen"/>ately <hi>put on Incorruption</hi> and <hi>Immortality,</hi> though in Event They <hi>ſhall not Dye;</hi> and ſo <hi>Death</hi> not <hi>ſwallowed up in Victory</hi> in them, nor therefore that <hi>Laſt Enemy ſubdued,</hi> nor therefore the <hi>King<g ref="char:EOLhyphen"/>dom of Chriſt</hi> at his <hi>Appearing</hi> neceſſary to be <hi>Delivered up,</hi> as elſe it muſt be at that <hi>Laſt Enemy ſubdued.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>8</label> The very Notion of a <hi>Kingdom</hi> and of a <hi>Monarchy</hi> ſucceeding Four <hi>Monarchies</hi> of Duration, as Chriſts is,<hi>Dan.</hi> 2.44. <hi>Dan.</hi> 7.27. Implyes Duration; The Apoſtle <hi>Peter</hi> therefore ſpeaking of the <hi>Day of Judgment;</hi> which is alſo at the <hi>Appearance</hi> of <hi>Chriſt,</hi> and at his Kingdom, 2 <hi>Tim.</hi> 4.1. and a <hi>Government,</hi> as well as a <hi>Judgment;</hi> would not have <hi>Chriſtians Ignorant,</hi> as a Point of Great Concernment, That <hi>One Day</hi> is <hi>with the Lord as a</hi> 1000 <hi>years,</hi> 2 <hi>Pet.</hi> 3.8. and the <hi>Apoſtle John</hi> tells us, The <hi>Reign</hi> of the Saints with Chriſt, both Principal or Participants in the <hi>Firſt Reſurrection</hi> is for a 1000 years, <hi>Rev.</hi> 20.46.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Principle </seg>9</label> This <hi>Kingdom of Chriſt,</hi> ſeeing It muſt be at his <hi>Coming</hi> and <hi>Appearance,</hi> and before the <hi>Kingdom of Eternity;</hi> and ſeeing, It is a <hi>Kingdom</hi> with <hi>All Saints,</hi> and ſeeing It muſt have a Dura<g ref="char:EOLhyphen"/>tion, and that Duration is defin'd to be a 1000 years, can have its place no where, but in that very <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or afterward be<g ref="char:EOLhyphen"/>tween the <hi>Dead in Chriſt, Riſing Incorruptible,</hi> and his <hi>Saints Alive at his Coming Chang'd,</hi> as the Term of its Beginning; and the <hi>Living Remaining Caught up</hi> into the ſame <hi>Incorruption,</hi> and Immortality with the <hi>Saints Rais'd Firſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> as the Laſt Term, or End of the <hi>Kingdom of Chriſt,</hi> when it is <hi>Deliver'd up;</hi> The Saints therefore not Dying before the Kingdom, are call'd <hi>The Living, The Remaining</hi> under Guard of Life, That They ſhall
+<pb n="4" facs="tcp:93448:3"/>not <hi>Dye;</hi> and to that purpoſe are alſo <hi>Chang'd</hi> into <hi>Bodies of Paradiſe,</hi>
+               <note n="*" place="margin">Healed by the Leaves of the Tree of Life, <hi>Rev.</hi> 22.2.</note> and yet have not put on <hi>Incorruption,</hi> and <hi>Immortality,</hi> nor ſhall doe till They are <hi>Caught up;</hi> But as to the nature of their Bodies They might Dye, as <hi>Adam;</hi> who yet, if He had not ſin'd, ſhould not have Dyed. And This in the Holy, and wiſe Diſpen<g ref="char:EOLhyphen"/>ſation of God gives the ſpace to the <hi>Kingdom of Chriſt,</hi> before it be <hi>deliver'd up</hi> at the <hi>ſubduing</hi> of the <hi>Last Enemy Death.</hi> Now to this Order from the Reſurrection of Chriſt to his <hi>Coming,</hi> There are ſet Juſt Notes of Time by ſuch Words, as expreſs a Diſtance, and an Immediateneſs; which however they may be uſed ſometimes indifferently, yet in this order muſt ſignifie with greateſt Exactneſs; the diſtance of above 1700 years from Chriſts <hi>Reſurrection</hi> to that of his Saints is couch'd un<g ref="char:EOLhyphen"/>der the Firſt <hi>Afterward</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>; Of a 1000 years, and a little ſpace from the <hi>Coming of Chriſt</hi> to the <hi>End</hi> under the ſecond, <hi>After</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>; And at the <hi>End,</hi> the Immediateneſs of the <hi>Kingdom deliver'd up</hi> by the Third, <hi>Then;</hi> or at that very Time 1 <hi>Cor:</hi> 15.23.24. And ſo 1 <hi>Theſſ.</hi> 4.17. The ſame, <hi>Afterward,</hi> is us'd to divide betwixt the <hi>Dead in Chriſt Riſing,</hi> and the <hi>Living Saints Caught up to be Ever with the Lord.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Princip. </seg>10</label> The Coming of Chriſt to Judgment is deſcribed with the Entrance of a <hi>New Heaven,</hi> and a <hi>New Earth</hi> by the <hi>Apoſtle Peter Ep.</hi> 2. <hi>c.</hi> 3. <hi>v.</hi> 13; and His <hi>Kingdom</hi> by the <hi>Apoſtle John</hi> in the ſame manner;<note n="*" place="margin">And Na<g ref="char:EOLhyphen"/>tions of the ſaved walk<g ref="char:EOLhyphen"/>ing in the Light of the <hi>New Hea<g ref="char:EOLhyphen"/>vens,</hi> and Kings of the Earth bringing their Glory. Rev. 21.24.</note> For He <hi>that ſate on the Throne, ſaid, Behold I create all New,</hi> and <hi>John ſaw a New Heaven,</hi> and a <hi>New Earth, Rev.</hi> 21.5. And ſo the <hi>Saints Riſen</hi> are deſcrib'd by the <hi>Apoſtle</hi> to be with Chriſt, as in the <hi>New Heaven;</hi> And the <hi>Saints Living Remaining,</hi> as on the <hi>New Earth,</hi> are <hi>Caught up</hi> at the End to <hi>meet together in the Air,</hi> in that <hi>General Aſſembly,</hi> and <hi>Church</hi> of the <hi>Firſt Born</hi> and at that Great Solemnity of <hi>Delivery</hi> up of the <hi>Kingdom to God,</hi> and the <hi>Father,</hi> and ſo <hi>being Ever with the Lord,</hi> and where He is, 1 <hi>Theſſ.</hi> 4.17. <hi>John</hi> 17.21. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Princip. </seg>11</label> The Firſt <hi>Reſurrection,</hi> that Comprehends the <hi>Dead in Chriſt,</hi> as Principals and the <hi>Living Remaining,</hi> as <hi>Partakers</hi> does not Comprehend the <hi>Wicked,</hi> who, though They Riſe indeed, yet It being to <hi>Condemnation</hi> are call'd <hi>The Dead, Revel.</hi> 20.5 and at Laſt are <hi>Caſt into the Lake of the ſecond Death.</hi> There can be therefore but <hi>One Reſurrection</hi> joyn'd with Life; of which Chriſt ſpeaking, Saith; <hi>I am the Reſurrection,</hi> and the <hi>Life, John</hi> 11.25. For the <hi>Dead in Chriſt,</hi> who <hi>Riſe First,</hi> can <hi>Dye no more,</hi> and ſo can <hi>Riſe</hi> no more, then the Firſt Time; And the <hi>Living Remaining</hi> being <hi>chang'd,</hi> and not <hi>Dying</hi> are <hi>Caught up;</hi> and ſo are <hi>Partakers</hi> of the <hi>Firſt Reſurrection,</hi> to which the Second Death is only oppos'd; and ſo Riſe not; But yet are found in the <hi>Lambs Book of Life</hi> by that Participation; So the <hi>Second Death</hi> can have no <hi>Power over Them.</hi> Rev. 20. v. 6.12.15.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Princip. </seg>12</label> The <hi>Kingdom of Chriſt</hi> is not by Scripture call'd the <hi>Fifth Monarchy,</hi> or <hi>Kingdom</hi> But it is moſt plainly declar'd by <hi>Daniel, Chap.</hi> 2. and <hi>Chap.</hi> 7. to come after <hi>Four Monarchies</hi> before it: But in that It makes its way by its own Power, and Appear<g ref="char:EOLhyphen"/>ance in the Light, and Glory of the Goſpel; The Doctrine of it if truly ſtared can never be ſuſpected of Mutinies and Inſurrections; Nor that Brand, which is ſo Ge<g ref="char:EOLhyphen"/>nerally Fix'd on <hi>Fifth Monarchy Men,</hi> as They are call'd, can at all belong to Them, <hi>viz.</hi> That they are Enemies to the <hi>Higher Powers,</hi> and <hi>Governments</hi> which are of <hi>God.</hi>
+            </p>
+            <p>Now Allowing, that whatever Scripture ſpeaks in any Place, ought to be com<g ref="char:EOLhyphen"/>par'd with what It ſpeaks in other Places; ſo that we may <hi>Reaſon</hi> from the whole, and Conclude, as is evident, <hi>Acts</hi> 17.3, we ought; I, even making my <hi>Boaſt</hi> in the <hi>Word of God,</hi> and not in my ſelf, challenge All Perſons Believing Scripture; whether I have not prov'd, That there muſt needs be ſuch a 1000 years <hi>Kingdom</hi> of <hi>Chriſt</hi> to be Enjoyed by all his Saints; by the <hi>Dead Riſing firſt</hi> in the <hi>New Hea<g ref="char:EOLhyphen"/>ven;</hi> and by his <hi>Saints L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving Remaining</hi> on the <hi>New Earth;</hi> and that It muſt be in the ſpace between the <hi>Living Saints Chang'd,</hi> when the <hi>Dead Saints Riſe Firſt;</hi> and the ſame <hi>Living Saints Caught up,</hi> and <hi>ſo All being ever with the Lord</hi> in the <hi>Kingdom Deliver'd up,</hi> and <hi>God All in All;</hi> If I have not proved theſe Things, <hi>Scripture is Open,</hi> Let Them <hi>Implead,</hi> what I have ſaid; And the <hi>Lord give us <g ref="char:V">Ʋ</g>nderſtanding in All Things.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93448:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
